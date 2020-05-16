@@ -6,5 +6,5 @@ of the projects I worked on:
 2. IDDFS, A*, and minimax search (with alpha-beta pruning) applied to a variety of games
 3. Naive-Bayes Spam Classifier 
 4. Markov Model for Text Generation
-5. Hidden Markov Model for part-of-speech tagging in parse trees (includes dynamically programmed algorithm for faster prediction)
+5. Hidden Markov Model for part-of-speech tagging in parse trees (includes dynamically programmed forward trellis for faster computational speed)
 6. Sudoku AI that uses heuristic inference, back-tracing, and AC-3 constraint satisfaction to solve puzzles
